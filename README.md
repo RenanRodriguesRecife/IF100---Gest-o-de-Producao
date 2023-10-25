@@ -34,6 +34,8 @@ Gestão é um pouco mais que administrar é gerenciar todas as nuancias de uma e
 
 Diferença: Produção x Serviço
 
+https://www.youtube.com/watch?v=mrSqnzmo-a4
+
 Conceitos: 
 
 Produção                          
