@@ -76,9 +76,9 @@ CONSÓRCIO MODULAR - Sistemática de compartilhar responsabilidades e participa�
 
 CELULAS DE PRODUÇÃO - Vai além do arranjo físico. Visa a integração das atividades produtivas transformando em pequenas unidades de manufatura.
 
-SISTEMA FLEXÍVEL DE MANUFATURA - 
+SISTEMA FLEXÍVEL DE MANUFATURA - É uma possibilidade de automatização do sistema produtivo. Disponibilizando máquinas de produção em um sistema automático de transporte.
 
-4:46
+PRODUÇÃO MAIS LIMPA - É uma abordagem para a produção eco eficiênte. Visando a economia dos recursos naturais e não agressão ao meio ambinete.
 
 ----
 
