@@ -43,7 +43,7 @@ Entrada (input)        Saídas (output)
 Recursos               Recursos
 
 
-
+d
 ----
 
 no final do curso saber: o que é uma produção, diferença de produção de bens, o que é um serviço, o que faz funcionar, porque escolher a localização é importante, o que é demanda, o que é qualidade, o que é sistema de gestão ambiental...
