@@ -64,7 +64,21 @@ A Produção é um processo de crianção de valor
 
 Gestão da Produção - visa flexibilizar os sistemas de produção com rapidez no projeto e implementação de novos produtos e processos. Com mais baixos tempos de produção (lead time) e estoques direcionados ao atendimento das necessidades do cliente (satisfação do cliente) tendo como objetivo redução dos custos da produção refletidos em maiores márgens de lucro e preços competitivos, garantido assim a satisfação do cliente. Também com o principal foco na qualidade atendeno assim os requisitos definidos e exigidos pelo cliênte. Também tem o objetivo de confiabilidade e velocidade nos prasos de entrega melhorando assim o seu desempenho de entrega e flexibilidade ser capáz de reagir de forma rápida a situações repentínas e inesperadas.
 
+JUST IN TIME - Filosofia que visa a redução de estoque produzindo somente a quantidade necessária no tempo necessário
 
+LEAN MANUFACTURING (produção enchuta) - Filosofia operacional que visa a eliminação dos disperdícios e criação de valor
+
+6 SIGMA - tecnica voltada a qualidade que visa diminuir a variabilidade do processo produtivo. ou seja garantindo uma produção mais conforme. Ex: Garantir que o maior número de produtos saiam saia dentro do tamanho determinado e expesificado pelo cliênte.
+
+CUSTOMIZAÇÃO EM MASSA - Conceito que visa personalizar produtos que são advindos de uma produção em série conforme os desejos e necessidades do cliênte.
+
+CONSÓRCIO MODULAR - Sistemática de compartilhar responsabilidades e participação junto as principais fornecedores (os fornecedores participam do processo produtivo)
+
+CELULAS DE PRODUÇÃO - Vai além do arranjo físico. Visa a integração das atividades produtivas transformando em pequenas unidades de manufatura.
+
+SISTEMA FLEXÍVEL DE MANUFATURA - 
+
+4:46
 
 ----
 
