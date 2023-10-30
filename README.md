@@ -38,9 +38,14 @@ https://www.youtube.com/watch?v=mrSqnzmo-a4
 
 Conceitos: 
 
-Produção                          
-Entrada (input)        Saídas (output)
-Recursos               Recursos
+Produção - Produção é a transformação de entradas (inputs) em saídas (outputs)
+
+Entrada (input) - São os recursos necessários para a realização da produção (instalações, capital, mão de obra, técnologia, informação, matéria prima)
+
+Saídas (output) - São os resoltados da transformação realizados no processo produtivo (produto, serviço e informações)
+
+
+
 
 
 d
