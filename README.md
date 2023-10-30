@@ -38,17 +38,29 @@ https://www.youtube.com/watch?v=mrSqnzmo-a4
 
 Conceitos: 
 
-Produção - Produção é a transformação de entradas (inputs) em saídas (outputs)
+Produção - Produção é a transformação de entradas (inputs) em saídas (outputs). 
 
 Entrada (input) - São os recursos necessários para a realização da produção (instalações, capital, mão de obra, técnologia, informação, matéria prima)
 
 Saídas (output) - São os resoltados da transformação realizados no processo produtivo (produto, serviço e informações)
 
+<img src=".assets/img1.jpg">
 
+Produção também pode ser definida como atividade de combinação dos fatores, que tem como finalizade de satisfazer as necessidades do ser humano
 
+A produção é um processo de criação de valor
 
+Sistema x Valor
 
-d
+Sistema é um conjunto de elementos que se relacionam 
+
+Valor é uma qualidade que se confere as coisas
+
+Produção também é definida como atividade da combinação dos fatores. Os sistema que tem a finalidade de satisfazer a necessidades do ser humano
+
+A Produção é um processo de crianção de valor
+
+<img src=".assets/img2.jpg">
 ----
 
 no final do curso saber: o que é uma produção, diferença de produção de bens, o que é um serviço, o que faz funcionar, porque escolher a localização é importante, o que é demanda, o que é qualidade, o que é sistema de gestão ambiental...
