@@ -98,3 +98,10 @@ no final do curso saber: o que é uma produção, diferença de produção de be
 
 ----------------
 
+Arranjo Fisico Posicional - projetos grandes que não podem ser movidos
+
+Arranjo Físico por Processo
+
+Celular
+
+Por Produto
