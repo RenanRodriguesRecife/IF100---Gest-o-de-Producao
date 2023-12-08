@@ -62,7 +62,7 @@ A Produção é um processo de crianção de valor
 
 <img src=".assets/img2.jpg">
 
-Gestão da Produção - visa flexibilizar os sistemas de produção com rapidez no projeto e implementação de novos produtos e processos. Com mais baixos tempos de produção (lead time) e estoques direcionados ao atendimento das necessidades do cliente (satisfação do cliente) tendo como objetivo redução dos custos da produção refletidos em maiores márgens de lucro e preços competitivos, garantido assim a satisfação do cliente. Também com o principal foco na qualidade atendeno assim os requisitos definidos e exigidos pelo cliênte. Também tem o objetivo de confiabilidade e velocidade nos prasos de entrega melhorando assim o seu desempenho de entrega e flexibilidade ser capáz de reagir de forma rápida a situações repentínas e inesperadas.
+Gestão da Produção - visa flexibilizar os sistemas de produção com rapidez no projeto e implementação de novos produtos e processos. Com mais baixos tempos de produção (lead time) e estoques direcionados ao atendimento das necessidades do cliente (satisfação do cliente) tendo como objetivo redução dos custos da produção refletidos em maiores margens de lucro e preços competitivos, garantido assim a satisfação do cliente. Também com o principal foco na qualidade atendeno assim os requisitos definidos e exigidos pelo cliênte. Também tem o objetivo de confiabilidade e velocidade nos prazos de entrega melhorando assim o seu desempenho de entrega e flexibilidade ser capáz de reagir de forma rápida a situações repentínas e inesperadas.
 
 JUST IN TIME - Filosofia que visa a redução de estoque produzindo somente a quantidade necessária no tempo necessário
 
@@ -95,6 +95,22 @@ no final do curso saber: o que é uma produção, diferença de produção de be
 
 - projetode poduto e do processo
 - arranjo fisico
+
+----------------
+
+Introdução a Administração da Produção e Operações (Administração da Produção - abreviação)
+
+Administração da produção e Operação diz respeito àquelas atividades orientadas para a produção de um bem físico ou à prestação de um serviço.
+
+Produção -> atividades industriais (consentradas na fábrica)
+
+Operações -> ativdades de empresas de serviço (estão espalhadas)
+
+### Produto e Serviços
+
+
+
+
 
 ----------------
 
