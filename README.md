@@ -108,9 +108,43 @@ Operações -> ativdades de empresas de serviço (estão espalhadas)
 
 ### Produto e Serviços
 
+Atividade Industrial fabrica um produto fisico e tangível
 
+Serviço é prestado implica uma ação (embora meios físicos possam está presentes para facilitar ou justificar o serviço, os meios físicos possam ser indispensáveis mais não constituem o serviço em si)
 
+As diferenças envolvem os seguintes aspectos:
 
+a) a natureza do que se oferece ao cliente e do seu consumo
+
+serviço obriga um contato mais estreito com o cliente. A prestação de serviço frequentimente se confunde com o seu consumo. Muitas vezes o cliente participa ele próprio da prestação do serviço (como um restaurante tipo "self-service").
+
+Na industria existe uma separação maior entre produção e o consumo do produto.
+
+produtos podem ser estocados como serviços não podem ser estocados
+
+A industria tem maior facilitade em programar tarefas e desenvolver métodos de trabalho e controle sobre as operações. A industria podem se programar melhor para absorver os efeitos de uma possível queda ou elevação da demanda graças a possibilidade estocar produtos. O ritmo de trabalho de uma industria pode ser mais constante e suave que em uma companhia de serviços.
+
+Para o serviço: É difícil evitar filas em dias de grande movimento e é difícil evitar subocupação em dias mais calmos.
+
+b) a uniformidade dos insumos necessários
+
+Na indústria cada particular produto tem uma lista de insumos necessários (tem uma maior uniformidade dos produtos).
+
+Serviços são muito variáveis no que se exige de insumos para cada serviço (cada caso deve ser tratado separadamente, dado que tem exigências bem específicas).
+
+c) as possibilidades de mecanização
+
+substituição do trabalho humano por máquinas. Na industria por conta da grande uniformidade dos insumos e da distância entre produção e consumo facilitando a rotinização
+
+d) o grau de padronização daquilo que é oferecido, independentemente do cliente considerado.
+
+<img src=".assets/img11.jpg">
+
+obs: não se deve esquecer que qualquer organização industrial executa, em nível interno, uma série de funções ligadas a serviços.
+
+#### Definição mais rigorosa
+
+pg 3.
 
 ----------------
 
