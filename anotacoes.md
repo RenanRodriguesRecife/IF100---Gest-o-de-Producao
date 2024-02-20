@@ -41,3 +41,38 @@ Aula 13 - Arranjo físico
 
 Aula 14 - Arranjo físico
 
+Aula 15 - 1 Exercício escolar
+
+Aula 16 - Previsão de demanda
+
+Aula 17 - Previsão de demanda
+
+Aula 18 - APS 3
+
+Aula 19 - Planejamento agregado
+
+Aula 20 - Planejamento agregado
+
+Aula 21 - Programação e Controle da Produção
+
+Aula 22 - Planejamento e controle da produção
+
+Aula 23 - ASP 4
+
+Aula 24 - Sistema de Produção Enxuta
+
+Aula 25 - Sistema de Produção Enxuta
+
+Aula 26 - Melhorias na gestão da produção
+
+Aula 27 - Gestão da Qualidade e Gestão Ambiental
+
+Aula 28 - Gestão da Qualidade e Gestão Ambiental
+
+Aula 29 - APS 5
+
+Aula 30 - 2 Exercício Escolar
+
+2 chamada
+
+Prova final
