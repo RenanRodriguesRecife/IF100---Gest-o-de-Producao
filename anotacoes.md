@@ -49,30 +49,30 @@ Aula 17 - Previsão de demanda
 
 Aula 18 - APS 3
 
-Aula 19 - Planejamento agregado
+(29/01) Aula 19 - Planejamento agregado
 
-Aula 20 - Planejamento agregado
+(31/01) Aula 20 - Planejamento agregado
 
-Aula 21 - Programação e Controle da Produção
+(05/02) Aula 21 - Programação e Controle da Produção
 
-Aula 22 - Planejamento e controle da produção
+(07/02) Aula 22 - Planejamento e controle da produção
 
-Aula 23 - ASP 4
+(12/02) Aula 23 - ASP 4
 
-Aula 24 - Sistema de Produção Enxuta
+(19/02) Aula 24 - Sistema de Produção Enxuta
 
-Aula 25 - Sistema de Produção Enxuta
+(21/02) Aula 25 - Sistema de Produção Enxuta
 
-Aula 26 - Melhorias na gestão da produção
+(26/02) Aula 26 - Melhorias na gestão da produção
 
-Aula 27 - Gestão da Qualidade e Gestão Ambiental
+(28/02) Aula 27 - Gestão da Qualidade e Gestão Ambiental
 
-Aula 28 - Gestão da Qualidade e Gestão Ambiental
+(04/03) Aula 28 - Gestão da Qualidade e Gestão Ambiental
 
-Aula 29 - APS 5
+(06/03) Aula 29 - APS 5
 
-Aula 30 - 2 Exercício Escolar
+(11/03) Aula 30 - 2 Exercício Escolar
 
-2 chamada
+(13/03) 2 chamada
 
-Prova final
+(20/03) Prova final
